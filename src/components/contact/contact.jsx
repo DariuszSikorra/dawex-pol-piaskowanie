@@ -18,7 +18,7 @@ const Contact = () => {
           <div className="contactkBox__item1">Tel:</div>
           <div className="contactkBox__item2">+48 798 450 170</div>
           <div className="contactkBox__item3">E-mail:</div>
-          <div className="contactkBox__item4">dawexpol-piaskowanie@gmail.com</div>
+          <div className="contactkBox__item4">dawexpolpiaskowanie@gmail.com</div>
         </div>
         <p>Sprawdź nas także na Facebook'u:</p>
         <div
